@@ -41,8 +41,8 @@ ML-FAIR/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ML-FAIR.git
-cd ML-FAIR
+git clone https://github.com/safwanaljbaae/ML-FAIR-code.git
+cd ML-FAIR-code/
 ```
 
 ### 2. Create a Virtual Environment
