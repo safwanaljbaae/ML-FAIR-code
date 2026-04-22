@@ -93,11 +93,9 @@ cd ML-FAIR-INITIAL_CONDITIONS
 
 # Download asteroid data from SBDB (NASA JPL Small-Body Database)
 # Then filter asteroids by semi-major axis and query JPL Horizons
-python select_ast_earth_cli.py --input-csv sbdb_query_results.csv --a-max 0.98
 python select_ast_earth_cli.py --input-csv sbdb_query_results.csv --a-max 0.98 --sort-by a --designation-column pdes --ast-columns a,pdes --ast-output ast_VRI.txt --particles-output Particles.el --epoch 2460800.5 --location 500@10
 
 # Split large datasets into batch directories for parallel processing
-python split_rebound_cli.py --lines-per-batch 100
 python split_rebound_cli.py --ast-file ast_VRI.txt --particles-file Particles.el --template-script Internal_MMR_ML_FAIR.py --lines-per-batch 100 --overwrite
 ```
 
