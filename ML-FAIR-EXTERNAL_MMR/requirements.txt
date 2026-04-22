@@ -1,0 +1,10 @@
+astropy
+astroquery
+matplotlib
+numpy
+pandas
+rebound
+scipy
+scikit-learn
+tqdm
+angles

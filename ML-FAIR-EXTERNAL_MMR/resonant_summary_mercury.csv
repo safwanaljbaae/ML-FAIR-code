@@ -1,0 +1,8 @@
+asteroid,planet,p,pq,a_input_AU,a_res_mercury_AU,Delta_a,flagged
+2022NX,mercury,5,20,0.8445,0.9754,0.1309,True
+2016AE65,mercury,5,9,0.8446,0.5728,0.2718,True
+2025TQ2,mercury,4,7,0.8471,0.5621,0.2850,True
+2010NG1,mercury,4,13,0.8493,0.8493,0.0000,True
+2019UN1,mercury,9,15,0.8511,0.5442,0.3069,True
+2022DJ4,mercury,3,17,0.8523,1.23,0.3781,True
+2005MR5,mercury,3,4,0.8527,0.4689,0.3838,False

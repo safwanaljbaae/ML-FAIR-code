@@ -1,0 +1,5 @@
+python select_ast_earth_cli.py \
+  --input-csv sbdb_query_results.csv \
+  --a-max 0.98 \
+  --epoch 2460800.5 \
+  --location 500@10

@@ -1,0 +1,2 @@
+python3 Internal_MMR_ML_FAIR.py --planet earth
+python3 Internal_MMR_ML_FAIR.py --planet mars

@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+python split_rebound_cli.py \
+  --ast-file ast_VRI.txt \
+  --particles-file Particles.el \
+  --template-script Internal_MMR_ML_FAIR.py \
+  --lines-per-batch 100 \
+  --output-prefix split_ \
+  --overwrite

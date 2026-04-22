@@ -1,0 +1,8 @@
+asteroid,planet,p,pq,a_input_AU,a_res_earth_AU,Delta_a,flagged
+337248,earth,3,4,0.8259,0.8255,0.0004,True
+2016TH94,earth,3,4,0.8269,0.8255,0.0014,True
+2024UZ2,earth,3,4,0.8271,0.8255,0.0016,True
+2024JE15,earth,3,4,0.8282,0.8255,0.0027,True
+2025FW11,earth,3,4,0.8295,0.8255,0.0040,True
+2023BY,earth,3,4,0.8316,0.8255,0.0061,True
+2100,earth,3,8,0.832,0.52,0.3120,True
